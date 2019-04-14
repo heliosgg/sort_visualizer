@@ -24,6 +24,3 @@
 *.exe
 *.out
 *.app
-
-# Custom
-.vs/
